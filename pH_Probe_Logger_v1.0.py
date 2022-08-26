@@ -15,8 +15,7 @@ from self_check import *
 
 #File path need to be updated depending on location and device
 ## Will add an argument reader later on
-file_path = 'C:/Users/JingXia/Desktop/FermLog/pH_Probe_Log.xlsx'
-
+file_path = 'pH_Probe_Log.xlsx'
 
 continue_program = True
 
